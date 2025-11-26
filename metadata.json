@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Suporte Chat Inteligente",
+  "description": "Um widget de chat de suporte ao cliente integrado, alimentado pelo Gemini 2.5 Flash para respostas rápidas e naturais.",
+  "requestFramePermissions": []
+}
